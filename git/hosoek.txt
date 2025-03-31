@@ -1,0 +1,3 @@
+mac screen shot
+- full: shift + command + 3
+- partial: shift + command + 4
